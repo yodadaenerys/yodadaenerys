@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yodadaenerys
 - 👀 I’m interested in figuring out GIT, and other stuff
 - 🌱 I’m currently learning about GIT, duh!?!?
-- 💞️ I’m looking to collaborate on stuff that interests you0
+- 💞️ I’m looking to collaborate on stuff that interests you
 - 📫 How to reach me: i'll tell ya later
 
 <!---
